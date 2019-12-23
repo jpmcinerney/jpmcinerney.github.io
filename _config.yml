@@ -22,7 +22,7 @@ title: The homepage of James McInerney
 email: mcinerney@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I am a PhD student at the Georgia Institute of Technology studying theoretical soft matter physics. Here, I post updates of my research and other projets.
-baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
